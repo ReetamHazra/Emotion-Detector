@@ -106,6 +106,4 @@ See `requirements.txt`. Major packages include:
 - [Keras](https://keras.io/)
 - [Flask](https://flask.palletsprojects.com/)
 
-## 📃 License
 
-This project is open-source and available under the [MIT License](LICENSE).
